@@ -55,7 +55,7 @@
     justify-content: center;
     align-items: center;
     height: 80%;
-    background-color: blue;
+    background-color: #1b4fec
 }
 
 
@@ -104,7 +104,7 @@
 .span {
     border: 2px solid black;
     border-radius: 50%;
-    background-color: blue;
+    background-color: #1b4fec;
     height: 70px;
     width: 70px;
     display: flex;
